@@ -61,5 +61,5 @@ The Automated Resume Screening and Parsing System aims to revolutionize the recr
 
 #### How to run:
 
-Run ResumeParsing.ipynb
+Run ResumeParsing.ipynb\n
 Run ResumeScreening.ipynb
