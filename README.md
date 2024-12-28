@@ -57,3 +57,9 @@ The Automated Resume Screening and Parsing System is a sophisticated tool design
 
 #### Conclusion:
 The Automated Resume Screening and Parsing System aims to revolutionize the recruitment process by leveraging cutting-edge technologies to automate and optimize resume handling. By delivering accurate, efficient, and unbiased candidate evaluations, this system will empower HR professionals to focus on strategic decision-making and talent acquisition.
+
+
+#### How to run:
+
+Run ResumeParsing.ipynb
+Run ResumeScreening.ipynb
